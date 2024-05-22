@@ -1,5 +1,5 @@
 ﻿
-# Loan Default Analysis
+# Lending Club
 
 > This project will basically use exploratory data analysis to help a consumer finance company reduce the risk of losing money by identifying the key driving factors behind loan defaults.
 
